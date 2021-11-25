@@ -117,3 +117,5 @@ Ci-dessous une copie d'écran de mon script dans Visual Studio Code :
 Après exécution du code, vous deviez un beau linéage complet comme illustré ci-dessous :
 
 ![PBIFullLineage](Pictures/004.png)
+
+Une courte vidéo est disponible [ici](https://github.com/franmer2/AzurePurviewFullPBILineage/tree/main/Video)
